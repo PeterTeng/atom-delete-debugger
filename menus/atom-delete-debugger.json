@@ -17,6 +17,10 @@
             {
               "label": "Toggle",
               "command": "atom-delete-debugger:toggle"
+            },
+            {
+              "label": "Replace",
+              "command": "atom-delete-debugger:replace"
             }
           ]
         }
