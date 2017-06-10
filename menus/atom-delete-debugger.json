@@ -19,8 +19,8 @@
               "command": "atom-delete-debugger:toggle"
             },
             {
-              "label": "Replace",
-              "command": "atom-delete-debugger:replace"
+              "label": "DeleteDebugger",
+              "command": "atom-delete-debugger:delete-debugger"
             }
           ]
         }
