@@ -11,5 +11,13 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+  },
+  "configSchema": {
+    "debuggerExpressions": {
+      "type": "array",
+      "default": ["debugger"],
+      "description": "Enter debugger expression you want to delete."
+    }
   }
+
 }
