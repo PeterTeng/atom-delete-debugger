@@ -8,5 +8,6 @@ This package delete all `debugger` expression from your project.
 
 
 # Command
-- `atom-delete-debugger:delete-debugger`: Delete all debugger expression(No default map).
+### `atom-delete-debugger:delete-debugger`
+Delete all debugger expression(No default keymap).
 Only delete `debugger` by default. You can add other expressions(like `binding.pry`) by Setting page.
