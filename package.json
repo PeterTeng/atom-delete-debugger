@@ -2,7 +2,7 @@
   "name": "atom-delete-debugger",
   "main": "./lib/atom-delete-debugger",
   "version": "0.2.1",
-  "description": "A short description of your package",
+  "description": "Delete debugger statement in your project",
   "keywords": [],
   "repository": "https://github.com/kdnk/atom-delete-debugger",
   "license": "MIT",
@@ -11,12 +11,12 @@
   },
   "dependencies": {},
   "configSchema": {
-    "debuggerExpressions": {
+    "debuggerStatements": {
       "type": "array",
       "default": [
         "debugger"
       ],
-      "description": "Enter debugger expression you want to delete."
+      "description": "Enter debugger statement you want to delete."
     }
   }
 }
