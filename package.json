@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/atom-delete-debugger",
+  "repository": "https://github.com/kdnk/atom-delete-debugger",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
