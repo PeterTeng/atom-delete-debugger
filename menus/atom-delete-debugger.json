@@ -17,6 +17,10 @@
             {
               "label": "Toggle",
               "command": "atom-delete-debugger:toggle"
+            },
+            {
+              "label": "DeleteDebugger",
+              "command": "atom-delete-debugger:delete-debugger"
             }
           ]
         }
