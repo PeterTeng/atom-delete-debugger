@@ -1,7 +1,8 @@
 {
   "name": "atom-delete-debugger",
   "main": "./lib/atom-delete-debugger",
-  "version": "0.1.0",
+  "version": "0.1.2",
+
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/kdnk/atom-delete-debugger",
@@ -9,6 +10,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+
   "dependencies": {},
   "configSchema": {
     "debuggerExpressions": {

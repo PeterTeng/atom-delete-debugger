@@ -1,5 +1,13 @@
 # atom-delete-debugger package
 
-A short description of your package.
+# Installation
+Install using [Atoms package installer](http://flight-manual.atom.io/using-atom/sections/atom-packages/)
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+# What's this?
+This package delete all `debugger` expression from your project.
+
+
+# Command
+### `atom-delete-debugger:delete-debugger`
+Delete all debugger expression(No default keymap).
+Only delete `debugger` by default. You can add other expressions(like `binding.pry`) by Setting page.
