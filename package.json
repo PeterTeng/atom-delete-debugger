@@ -11,12 +11,12 @@
   },
   "dependencies": {},
   "configSchema": {
-    "debuggerStatements": {
+    "extensions": {
       "type": "array",
       "default": [
-        "debugger"
+        [".jsx", ".js", ".rb"]
       ],
-      "description": "Enter debugger statement you want to delete."
+      "description": "Enter extensions you want to delete debugger statement."
     }
   }
 }
