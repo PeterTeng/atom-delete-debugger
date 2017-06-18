@@ -12,5 +12,5 @@ This package delete all `debugger` statements from your project.
 ### `atom-delete-debugger:delete-all`
 Delete all debugger statements(No default keymap).
 
-# Support language
+# Supported languages
 Now only support `.js(debugger)`, `.jsx(debugger)`, `.rb(binding.pry)`
