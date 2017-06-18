@@ -17,6 +17,10 @@
             {
               "label": "Delete All",
               "command": "atom-delete-debugger:delete-all"
+            },
+            {
+              "label": "Delete From Current  Path",
+              "command": "atom-delete-debugger:delete-from-current-path"
             }
           ]
         }
