@@ -15,12 +15,8 @@
           "label": "atom-delete-debugger",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-delete-debugger:toggle"
-            },
-            {
-              "label": "DeleteDebugger",
-              "command": "atom-delete-debugger:delete-debugger"
+              "label": "Delete All",
+              "command": "atom-delete-debugger:delete-all"
             }
           ]
         }
