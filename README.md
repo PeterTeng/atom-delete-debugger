@@ -16,4 +16,4 @@ Delete all debugger statements.
 Delete debugger statements in current file.
 
 # Supported languages
-Now only support `.js(debugger)`, `.jsx(debugger)`, `.rb(binding.pry)`.
+Now only support `.js(debugger)`, `.jsx(debugger)`, `.coffee(debugger)`, `.rb(binding.pry)`.
