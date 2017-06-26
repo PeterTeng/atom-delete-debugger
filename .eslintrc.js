@@ -40,7 +40,7 @@ module.exports = {
       "always",
     ],
     "no-unused-vars": [
-      "warn",
+      "error",
       {
         "argsIgnorePattern": "^_",
       }
