@@ -9,6 +9,14 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "scripts": {
+    "format": "prettier-eslint --write 'lib/**/*.{js,jsx}'"
+  },
   "dependencies": {},
-  "configSchema": {}
+  "configSchema": {},
+  "devDependencies": {
+    "prettier": "^1.4.4",
+    "prettier-eslint": "^6.3.0",
+    "prettier-eslint-cli": "^4.1.1"
+  }
 }
