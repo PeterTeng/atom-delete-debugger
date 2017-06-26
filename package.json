@@ -1,7 +1,7 @@
 {
   "name": "atom-delete-debugger",
   "main": "./lib/atom-delete-debugger",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Delete debugger statement in your project",
   "keywords": [],
   "repository": "https://github.com/kdnk/atom-delete-debugger",
