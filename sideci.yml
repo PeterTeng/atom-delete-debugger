@@ -1,0 +1,8 @@
+linter:
+  eslint:
+    options:
+      npm_install: true
+      config: '.eslintrc.js'
+      ext: 'js,jsx'
+      ignore-path: .gitignore
+      dir: 'lib'

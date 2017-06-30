@@ -1,7 +1,7 @@
 {
   "name": "atom-delete-debugger",
   "main": "./lib/atom-delete-debugger",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Delete debugger statement in your project",
   "keywords": [],
   "repository": "https://github.com/kdnk/atom-delete-debugger",
@@ -9,6 +9,19 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "scripts": {
+    "format": "prettier-eslint --write 'lib/**/*.{js,jsx}'"
+  },
   "dependencies": {},
-  "configSchema": {}
+  "configSchema": {},
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.6.1",
+    "eslint-plugin-jsx-a11y": "^5.1.0",
+    "eslint-plugin-react": "^7.1.0",
+    "prettier": "^1.4.4",
+    "prettier-eslint": "^6.3.0",
+    "prettier-eslint-cli": "^4.1.1"
+  }
 }
