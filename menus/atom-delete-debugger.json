@@ -21,6 +21,10 @@
             {
               "label": "Delete From Current  Path",
               "command": "atom-delete-debugger:delete-from-current-path"
+            },
+            {
+              "label": "Comment out From Current  Path",
+              "command": "atom-delete-debugger:commentout-from-current-path"
             }
           ]
         }
